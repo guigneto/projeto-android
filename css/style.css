@@ -98,12 +98,12 @@ main{
 }
 
 main h1{
-    color: cadetblue;
+    color: black;
     font-family: var(--fonte-android);
 }
 
 main h2{
-    color: lime;
+    color: black;
     font-family: var(--fonte-android);
     font-size: 1.3em;
     text-indent: 10px;
